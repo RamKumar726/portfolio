@@ -4,9 +4,9 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Ram Kumar Kota",
   initials: "DV",
-  url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  // url: "https://dillion.io",
+  // location: "San Francisco, CA",
+  // locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
     "B.Tech student venturing into freelancing, eager to apply technical skills and deliver creative solutions while gaining real-world experience.",
   summary:
